@@ -1,0 +1,9 @@
+project:
+  name: Simple Service
+
+service:
+  port: 8082
+
+tracer:
+  name: simple_service
+  namespace: grpc.simple_service.v1
